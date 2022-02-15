@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welcome</string>
+    <string name="user_name">User Name</string>
+    <string name="username123_gmail_com">username123@gmail.com</string>
+    <string name="_9000">9000$</string>
+    <string name="amount">Amount:</string>
+    <string name="transfer_no">Transfer.no</string>
+    <string name="processes">Processes</string>
+    <string name="there_is_no_transfers_yet">There is no transfers yet</string>
+    <string name="receiver">Receiver</string>
+    <string name="transfer">Transfer</string>
+    <string name="cancel">Cancel</string>
+</resources>

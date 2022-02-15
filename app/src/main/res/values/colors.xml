@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Custom Colors-->
+    <color name="primaryColor">#1572A1</color>
+    <color name="secondaryColor">#2585B6</color>
+    <color name="secondaryColorLight">#56BAE8</color>
+    <color name="primaryColorLight">#9AD0EC</color>
+    <color name="gray_light">#CECACACA</color>
+    <color name="gray_dark">#464747</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#00FF00</color>
+    <color name="red">#FF0000</color>
+</resources>

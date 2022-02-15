@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/drawable/button_bg.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/drawable/dialog_bg.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/drawable/ic_done.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/drawable/ic_wrong.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/layout/activity_splash.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/layout/call_users_list.xml" value="0.22" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/layout/call_users_list_shimmer.xml" value="0.1094224924012158" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/layout/fragment_custom_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/layout/fragment_transfer_dialog.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/layout/list_item.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/layout/transfers_to_users_list.xml" value="0.33" />
+        <entry key="..\:/Users/SOFT/AndroidStudioProjects/kotlin/SimpleBankingAPP/app/src/main/res/layout/user_data_shimmer.xml" value="0.15353260869565216" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

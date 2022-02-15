@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple Banking APP</string>
+    <string name="welcome">Welcome</string>
+    <string name="user_name">User Name</string>
+    <string name="username123_gmail_com">username123@gmail.com</string>
+    <string name="_9000">9000$</string>
+    <string name="amount">Amount:</string>
+    <string name="transfer_no">Transfer.no</string>
+    <string name="processes">Processes</string>
+    <string name="complete">complete</string>
+    <string name="not_complete">not complete</string>
+    <string name="there_is_no_transfers_yet">There is no transfers yet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="receiver">Receiver</string>
+    <string name="transfer">Transfer</string>
+    <string name="cancel">Cancel</string>
+</resources>
